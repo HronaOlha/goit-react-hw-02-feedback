@@ -1,0 +1,40 @@
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+ul {
+  margin: 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+.title {
+  padding: 16px 0;
+  font-size: 36px;
+}
+
+.btnList {
+  display: flex;
+  gap: 8px;
+  padding: 16px 0;
+}
+
+.btn {
+  padding: 8px;
+  background-color: white;
+  outline: none;
+  border: 1px solid rgb(219, 219, 219);
+  border-radius: 4px;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  cursor: pointer;
+}
+
+.feedbackList {
+  font-size: 21px;
+}
